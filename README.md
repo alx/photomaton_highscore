@@ -7,6 +7,8 @@ Raise in highscore leaderboard by showing many object of the same class:
 - 25 toys => 25 points
 - ...
 
+`thumbs` folder is versionable, feel free to push your highscores in a pull-request!
+
 ## Requirements
 
 ```bash

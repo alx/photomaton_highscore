@@ -135,6 +135,10 @@
           // filenme format:category_count.jpg
           const regex = /\/(.*)_(\d+)_(\d+)/gm;
           const match = regex.exec(filename);
+
+          if (!match)
+            return null;
+
 					const category = match[1];
 					const count = match[2];
 					const epoch = match[3];
