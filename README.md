@@ -1,3 +1,5 @@
+![Screenshot](https://raw.github.com/alx/photomaton_highscore/master/screenshot.png)
+
 # Photomaton Highscore
 
 Raise in highscore leaderboard by showing many object of the same class:
